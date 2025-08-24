@@ -1,0 +1,60 @@
+(kicad_sch
+	(version 20250114)
+	(generator "eeschema")
+	(generator_version "9.0")
+	(uuid "40e2b5e1-2816-4200-b130-67ad268a29b4")
+	(paper "A4")
+	(title_block
+		(title "Budget MPU")
+		(rev "A")
+	)
+	(lib_symbols)
+	(sheet
+		(at 121.92 44.45)
+		(size 59.69 57.15)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "efd0d231-1d1c-4f26-9f53-a4af3c50ca3b")
+		(property "Sheetname" "SAM9X72"
+			(at 121.92 43.7384 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "SAM9X72.kicad_sch"
+			(at 121.92 102.1846 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "BudgetMPU"
+				(path "/40e2b5e1-2816-4200-b130-67ad268a29b4"
+					(page "2")
+				)
+			)
+		)
+	)
+	(sheet_instances
+		(path "/"
+			(page "1")
+		)
+	)
+	(embedded_fonts no)
+)
